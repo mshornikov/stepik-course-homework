@@ -4,6 +4,8 @@ Homework for HTML/CSS [course](https://stepik.org/course/38218/info) on platform
 
 ### Homework have three parts:
 1. [HTML task](https://stepik.org/lesson/180350/step/1?unit=154968) (create a page on pure HTML with some complex tables) 
+    
+    Images in "/img" folder, mockup in "/source" folder
 
 Some comments from task:
 > Необходимо сверстать страницу по  макету "Хьюстон - макет.pdf". Так же есть скриншот уже свёрстанной страницы "Хьюстон.png", чтобы было понимание, как в итоге должно выйти.
